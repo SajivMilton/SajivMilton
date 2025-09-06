@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Sajiv Milton  
 
-<!--
-**SajivMilton/SajivMilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Software Development Engineer (SDE)** | Passionate about **C, C++, Python, Linux & Embedded Systems**  
+🎯 Focused on building system-level software, device drivers, and automation tools.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technical Skills
+- **Languages**: C, C++, Python, Golang (beginner), Shell Scripting  
+- **Platforms**: Linux, Embedded Systems  
+- **Domains**: Networking, Device Drivers, Data Analytics, Machine Learning  
+
+---
+
+## 📂 Featured Projects
+🔹 [Linux Device Driver](https://github.com/SajivMilton/linux-device-driver) – Basic character driver in C for Linux.  
+🔹 [Python Log Analyzer](https://github.com/SajivMilton/python-log-analyzer) – Automated log analysis using Python.  
+🔹 [C++ Multithreaded Processing](https://github.com/SajivMilton/cpp-multithreaded-processing) – Matrix multiplication with multithreading.  
+🔹 [Linux System Monitoring](https://github.com/SajivMilton/linux-system-monitoring) – Shell script for CPU/memory monitoring.  
+
+---
+
+## 📈 Current Focus
+- Strengthening problem-solving (Data Structures & Algorithms)  
+- Exploring Embedded Linux and Networking  
+- Preparing for roles at **Nokia, Google, Microsoft, and top tech firms**  
+
+---
+
+📫 **Reach me at**: [msajiv2003@gmail.com](mailto:msajiv2003@gmail.com)  
+🌐 [GitHub](https://github.com/SajivMilton)  
