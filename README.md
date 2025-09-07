@@ -23,7 +23,7 @@
 ## 📈 Current Focus
 - Strengthening problem-solving (Data Structures & Algorithms)  
 - Exploring Embedded Linux and Networking  
-- Preparing for roles at **Nokia, Google, Microsoft, and top tech firms**  
+- Preparing for roles at ***Google, Microsoft, and top tech firms**  
 
 ---
 
